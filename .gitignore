@@ -1,0 +1,78 @@
+# Build folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Compiled source files
+*.dll
+*.exe
+*.lib
+*.app
+*.dylib
+*.so
+*.pdb
+*.obj
+*.o
+
+# VS / IDE
+.vscode/
+.idea/
+.vs/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Temporary or backup files
+*.log
+*.tmp
+*.bak
+*.old
+*.orig
+*.swp
+
+# Crash reports and autosaves
+*.pid
+*.dump
+
+# Ignore plugin build artifacts
+Plugins/*/Intermediate/
+Plugins/*/Binaries/
+Plugins/*/Saved/
+
+# Ignore project-specific platform configs (optional)
+Config/Android/
+Config/IOS/
+Config/Linux/
+Config/Mac/
+Config/Windows/
+
+# Optional: Ignore packaged builds (if you store them locally)
+# WindowsNoEditor/
+# LinuxNoEditor/
+# MacNoEditor/
+# etc...
+
+# Ignore local-only files
+*.local
+*.user
+*.userprefs
+
+# Git-specific
+.git/
+
+# OneDrive (if you work in synced folders)
+~$*
+*.tmp
+*.lnk
