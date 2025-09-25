@@ -1,0 +1,51 @@
+# Fichiers de build
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Fichiers temporaires de l'éditeur
+.vscode/
+.git/
+.idea/
+*.suo
+*.user
+*.userprefs
+*.lnk
+*.tmp
+*.log
+*.vspscc
+*.vssscc
+
+# Fichiers générés par le compilateur
+*.obj
+*.pdb
+*.exe
+*.dll
+*.lib
+*.app
+*.dylib
+*.ipa
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Cache de l’éditeur Unreal
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Fichiers de build Visual Studio
+.vs/
+*.xcodeproj
+*.xcworkspace
+
+# Plugin auto-générés
+Plugins/*/Intermediate/
+Plugins/*/Binaries/
+Plugins/*/Saved/
