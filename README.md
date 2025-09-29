@@ -1,15 +1,24 @@
 # 📁 8PRO135_TP1
-*Marée basse* is a game made with the WPF user interface framework developed by [Robin M.](https://github.com/RobinMILLET) and [Lucas H.](https://github.com/lucas-hatet). It's an obstacle game in which you control a small fish, and the goal is to dodge various obstacles by diving or jumping out of the water. A more complete doc is available in the file [].
+
+**Silent Place** is a survival game developed in **Unreal Engine 5** and primarily coded in **C++** and **Blueprint**. The main objective is to **survive as long as possible** within a dynamic asteroid field, dodging obstacles and outmaneuvering the continuous threat. The core challenge lies in the increasingly aggressive asteroid spawning and physics-based interactions.
+
+---
 
 ## 🛠 Technologies Used
 
-#### Development
-![C#](https://img.shields.io/badge/-C%23-942C86?style=flat-square&logo=cplusplus) ![XAML](https://img.shields.io/badge/-XAML-005FAD?style=flat-square&logo=xml)
+#### Engine & Development
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine%205-0078D4?style=flat-square&logo=unrealengine)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![Blueprint](https://img.shields.io/badge/-Blueprint-0078D4?style=flat-square&logo=unrealengine)
 
-#### Design
-![Photoshop](https://img.shields.io/badge/-Photoshop-001E36?style=flat-square&logo=photopea)
+#### Design & Assets
+![Blender](https://img.shields.io/badge/-Blender-FF6F00?style=flat-square&logo=blender)
 
-## 👷‍♂️ Authors
-* [Robin M.](https://github.com/RobinMILLET)
+---
 
-## ✅ Status : Done
+## 👷‍♂️ Author
+* [Lucas H.] - (https://github.com/lucas-hatet)
+
+---
+
+## ✅ Status: Done

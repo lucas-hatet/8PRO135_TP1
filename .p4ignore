@@ -1,12 +1,12 @@
 # Fichiers de build
 Binaries/
-Build/
 DerivedDataCache/
 Intermediate/
 Saved/
 
 # Fichiers temporaires de l'éditeur
 .vscode/
+.git/
 .idea/
 *.suo
 *.user
@@ -42,7 +42,6 @@ Desktop.ini
 
 # Fichiers de build Visual Studio
 .vs/
-*.sln
 *.xcodeproj
 *.xcworkspace
 
@@ -50,10 +49,3 @@ Desktop.ini
 Plugins/*/Intermediate/
 Plugins/*/Binaries/
 Plugins/*/Saved/
-
-# Configuration locale (mais pas Default/)
-Config/Android/
-Config/iOS/
-Config/Linux/
-Config/Mac/
-Config/Windows/
